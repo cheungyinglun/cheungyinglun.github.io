@@ -2,8 +2,8 @@
 title: "Financial Econometrics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-financial-econometrics
-venue: "Capital University of Econimcs and Business, International School of Economics and Management"
+permalink: /teaching/2019-09-financial-econometrics
+venue: "Capital University of Econimcs and Business, ISEM"
 date: 2019-09-28
 location: "Beijing, China"
 ---
