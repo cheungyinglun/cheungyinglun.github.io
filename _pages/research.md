@@ -18,5 +18,5 @@ High-dimensional factor models, Time series analysis, Empirical asset pricing
 ## Working Papers
 
 {% for post in site.workingpapers reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
