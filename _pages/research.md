@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Research Interests
+
+High-dimensional factor models, Time series analysis, Empirical asset pricing
+
 ## Working Papers
 
 {% for post in site.workingpapers reversed %}
