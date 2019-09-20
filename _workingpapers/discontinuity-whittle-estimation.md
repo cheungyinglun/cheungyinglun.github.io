@@ -1,4 +1,4 @@
- and Uwe Hassler---
+---
 title: "Discontinuity of Fully Extended (Local) Whittle Estimation"
 collection: workingpapers
 permalink: /workingpapers/discontinuity-whittle-estimation
