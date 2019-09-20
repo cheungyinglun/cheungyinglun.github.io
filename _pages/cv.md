@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.Sc in Quantitative Finance, Hong Kong University of Science and Technology, 2013
 * Ph.D in Finance, Goethe University Frankfurt, 2019
 
-Employment
-======
+## Employment
 * 2019 - Present: Assistant Professor
   * Capital University of Economics and Business
 
@@ -23,20 +21,17 @@ Employment
   * Goethe University Frankfurt
   * Supervisor: Prof. Michael Binder
 
-Working Papers
-======
+## Working Papers
   <ul>{% for post in site.workingpapers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conference Presentations
-======
+## Conference Presentations
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
