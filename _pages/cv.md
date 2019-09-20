@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here](https://github.com/cheungyinglun/cheungyinglun.github.io/blob/master/files/CV.pdf)
+[Download here](https://1drv.ms/b/s!ApUXGePxR6946XtKcTSV6kwpLIxp?e=6yd4pP)
 
 ## Education
 * B.Sc in Quantitative Finance, Hong Kong University of Science and Technology, 2013
