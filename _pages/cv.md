@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download here](https://github.com/cheungyinglun/cheungyinglun.github.io/blob/master/files/CV.pdf)
+
 ## Education
 * B.Sc in Quantitative Finance, Hong Kong University of Science and Technology, 2013
 * Ph.D in Finance, Goethe University Frankfurt, 2019
