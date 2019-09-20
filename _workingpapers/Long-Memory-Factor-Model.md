@@ -15,4 +15,3 @@ This paper considers the estimation of factor memories in the context of a high-
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2921952)
 
-Recommended citation: Cheung, Ying Lun. (2018). "Long Memory Factor Model: On Estimation of Factor Memories." <i>Working Paper</i>.
