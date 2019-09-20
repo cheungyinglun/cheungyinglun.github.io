@@ -1,4 +1,4 @@
-Binder, Michael, Ying Lun Cheung, Georgios Georgiadis and Sunil Sharma.---
+---
 title: "International Financial Integration and Output Growth"
 collection: workingpapers
 permalink: /workingpapers/output-growth
