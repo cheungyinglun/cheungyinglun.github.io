@@ -39,7 +39,7 @@
     {% if post.venue%}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
     {% elsif post.coauthor%}
-      <p class="archive__item-excerpt" itemprop="description">{{ (with post.coauthor) >></p>
+      <p class="archive__item-excerpt" itemprop="description">{{ (with post.coauthor) }}</p>
     {% endif %}
     </li>
  </article>
