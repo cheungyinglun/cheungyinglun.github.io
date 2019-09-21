@@ -2,7 +2,7 @@
 title: "Discontinuity of Fully Extended (Local) Whittle Estimation"
 collection: workingpapers
 permalink: /workingpapers/discontinuity-whittle-estimation
-excerpt: 'We consider the fully extended local Whittle estimator.'
+excerpt: 'We consider the fully extended local Whittle estimator of the fractional order of integration d proposed by Abadir, Distaso and Giraitis (2007), and the extended parametric Whittle estimator suggested by Shao (2010).'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3120575'
 coauthor: 'Uwe HASSLER'
 ---
