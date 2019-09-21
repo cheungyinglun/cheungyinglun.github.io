@@ -3,7 +3,6 @@ title: "Sieve Estimation of Time-Varying Factor Loadings: Estimating the Conditi
 collection: workingpapers
 permalink: /workingpapers/time-varying-factor-model
 excerpt: 'This paper introduces a high-dimensional factor model with time-varying factor loadings.'
-date: 2018-08-29
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3122671'
 ---
 
