@@ -8,7 +8,7 @@ date: 2019-09-28
 location: "Beijing, China"
 ---
 
-The course introduces students to econometric methods applied in fiancial economics. In particular, this course focuses on the estimatCouion and inferential methods used in empirical analysis of modern finance theory. Due to the applied emphasis, classes will cover MATLAB  and Stata programming to implement the tools discussed in the lectures as well.
+The course introduces students to econometric methods applied in fiancial economics. In particular, this course focuses on the estimation and inferential methods used in empirical analysis of modern finance theory. Due to the applied emphasis, classes will cover MATLAB  and Stata programming to implement the tools discussed in the lectures as well.
 
 Course Outline
 ======
