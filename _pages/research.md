@@ -13,10 +13,10 @@ author_profile: true
 
 ## Research Interests
 
-High-dimensional factor models, Time series analysis, Empirical asset pricing
+<ul>High-dimensional factor models, Time series analysis, Empirical asset pricing</ul>
 
 ## Working Papers
 
-{% for post in site.workingpapers reversed %}
+<ul>{% for post in site.workingpapers reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}
+{% endfor %}</ul>
