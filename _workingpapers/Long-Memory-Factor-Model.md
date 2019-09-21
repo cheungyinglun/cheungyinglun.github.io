@@ -3,7 +3,6 @@ title: "Long Memory Factor Model: On Estimation of Factor Memories"
 collection: workingpapers
 permalink: /workingpapers/long-memory-factor-model
 excerpt: 'This paper considers the estimation of factor memories in the context of a high-dimensional factor model.'
-date: 2018-01-16
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2921952'
 ---
 
