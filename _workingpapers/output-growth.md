@@ -3,7 +3,6 @@ title: "International Financial Integration and Output Growth"
 collection: workingpapers
 permalink: /workingpapers/output-growth
 excerpt: 'The paper investigates the output effects of international financial integration, and their dependence on two key factors - the quality of country governance and the level of domestic financial market development.'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2921952'
 coauthor: 'Michael BINDER, Georgios GEORGIADIS and Sunil SHARMA'
 ---
 
