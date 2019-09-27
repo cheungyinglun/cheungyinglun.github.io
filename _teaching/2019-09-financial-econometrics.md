@@ -12,9 +12,10 @@ The course introduces students to econometric methods applied in fiancial econom
 
 Course Materials
 ======
-* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/blob/master/files/teaching/2019-09-financial-econometrics/syllabusFE_2019.pdf)
+* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/00_Intro.pdf)
+* <a href="https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/00_Intro.pdf" target="_blank">Syllabus>
 * Lecture notes:
-  * [Chapter 0: Introduction](https://github.com/cheungyinglun/cheungyinglun.github.io/blob/master/files/teaching/2019-09-financial-econometrics/00_Intro.pdf)
+  * [Chapter 0: Introduction](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/00_Intro.pdf)
   * Chapter 1: Primer on financial econometrics
   * Chapter 2: Stationary time series
   * Chapter 3: Nontationary time series
