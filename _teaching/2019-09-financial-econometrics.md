@@ -15,7 +15,7 @@ Course Materials
 * [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/syllabusFE_2019.pdf)
 * Lecture notes:
   * [Chapter 0: Introduction](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/00_Intro.pdf)
-  * Chapter 1: Primer on financial econometrics
+  * [Chapter 1: Primer on financial econometrics](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/01_Preliminary.pdf)
   * Chapter 2: Stationary time series
   * Chapter 3: Nontationary time series
 
