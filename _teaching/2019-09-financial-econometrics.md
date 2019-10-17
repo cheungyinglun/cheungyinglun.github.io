@@ -17,11 +17,11 @@ Course Materials
   * [Chapter 0: Introduction](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/00_Intro.pdf)
   * [Chapter 1: Primer on financial econometrics](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/01_Preliminary.pdf)
   * Chapter 2: Stationary time series
-   * [Chapter 2a: Stationarity and linear process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02a_Stationary_WN_LP.pdf)
-   * [Chapter 2b: Autoregressive model] (https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02b_Stationary_AR.pdf)
-   * Chapter 2c: AR model in practice
-   * Chapter 2d: MA model
-   * Chapter 2e: ARMA model
+  ** [Chapter 2a: Stationarity and linear process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02a_Stationary_WN_LP.pdf)
+  ** [Chapter 2b: Autoregressive model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02b_Stationary_AR.pdf)
+  ** Chapter 2c: AR model in practice
+  ** Chapter 2d: MA model
+  ** Chapter 2e: ARMA model
   * Chapter 3: Nontationary time series
 
 Course Outline
