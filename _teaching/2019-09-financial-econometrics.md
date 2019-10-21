@@ -1,4 +1,4 @@
-(https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/stationarity.pdf)---
+---
 title: "Financial Econometrics"
 collection: teaching
 type: "Undergraduate course"
