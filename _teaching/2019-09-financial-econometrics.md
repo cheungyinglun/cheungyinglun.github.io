@@ -32,7 +32,7 @@ Supplementary Materials
 
 Assignment
 =====
-Please type your answers with a word processing software (e.g., Word or LaTeX) and save it as a PDF file. The due date of the assignment is November 1 (Friday). Please send me your answers through email.
+Please type your answers with a word processing software (e.g., Word or LaTeX) and save it as a PDF file. Please send me your answers through email.
 
 * [Assignment 1](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/assignment_1.pdf) (Due date: November 1, Friday)
 
