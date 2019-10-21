@@ -1,4 +1,4 @@
----
+(https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/stationarity.pdf)---
 title: "Financial Econometrics"
 collection: teaching
 type: "Undergraduate course"
@@ -23,6 +23,19 @@ Course Materials
     * Chapter 2d: MA model
     * Chapter 2e: ARMA model
   * Chapter 3: Nontationary time series
+
+Supplementary Materials
+=====
+* [Moments of the Uniform Distribution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/moments.pdf)
+* [Stationarity of an MA(1) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/stationarity.pdf)
+* [Mean, Variance and Autocovariance of a AR(1) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/AR1.pdf)
+
+Assignment
+=====
+Please type your answers with a word processing software (e.g., Word or LaTeX) and save it as a PDF file. The due date of the assignment is November 1 (Friday). Please send me your answers through email.
+
+* [Assignment 1](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/assignment_1.pdf) (Due date: November 1, Friday)
+
 
 Course Outline
 ======
