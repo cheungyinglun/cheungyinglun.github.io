@@ -29,6 +29,7 @@ Supplementary Materials
 * [Moments of the Uniform Distribution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/moments.pdf)
 * [Stationarity of an MA(1) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/stationarity.pdf)
 * [Mean, Variance and Autocovariance of a AR(1) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/AR1.pdf)
+* [AR(p) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/ARp.pdf)
 
 Assignment
 =====
