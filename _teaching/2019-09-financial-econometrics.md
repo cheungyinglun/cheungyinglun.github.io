@@ -19,8 +19,8 @@ Course Materials
   * Chapter 2: Stationary time series
     * [Chapter 2a: Stationarity and linear process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02a_Stationary_WN_LP.pdf)
     * [Chapter 2b: Autoregressive model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02b_Stationary_AR.pdf)
-    * [Chapter 2c: AR model in practice](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02b_Stationary_Fcst.pdf)
-    * Chapter 2d: MA and ARMA model
+    * [Chapter 2c: AR model in practice](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02c_Stationary_Fcst.pdf)
+    * [Chapter 2d: MA and ARMA model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02d_Stationary_MA.pdf)
   * Chapter 3: Nontationary time series
 
 Supplementary Materials
@@ -29,12 +29,14 @@ Supplementary Materials
 * [Stationarity of an MA(1) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/stationarity.pdf)
 * [Mean, Variance and Autocovariance of a AR(1) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/AR1.pdf)
 * [AR(p) Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/ARp.pdf)
+* [AR in Practice](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/AR_in_practice.pdf)
 
 Assignment
 =====
 Please type your answers with a word processing software (e.g., Word or LaTeX) and save it as a PDF file. Please send me your answers through email.
 
 * [Assignment 1](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/assignment_1.pdf) (Due date: November 1, Friday)
+* [Assignment 2](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/assignment_2_questions.pdf) (Due date: November 10, Sunday)
 
 
 Course Outline
