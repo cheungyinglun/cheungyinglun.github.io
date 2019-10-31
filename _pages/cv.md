@@ -23,6 +23,11 @@ redirect_from:
   * Goethe University Frankfurt
   * Supervisor: Prof. Michael Binder
 
+## Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Working Papers
   <ul>{% for post in site.workingpapers %}
     {% include archive-single-cv.html %}
