@@ -1,6 +1,4 @@
-<ul>{% for post in site.workingpapers reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>---
+---
 layout: archive
 title: "Research"
 permalink: /research/
