@@ -19,10 +19,6 @@ redirect_from:
 * 2019 - Present: Assistant Professor
   * Capital University of Economics and Business
 
-* 2016 - 2019: Research Assistant
-  * Goethe University Frankfurt
-  * Supervisor: Prof. Michael Binder
-
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
