@@ -3,7 +3,7 @@ title: "Financial Econometrics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-09-financial-econometrics
-venue: "Capital University of Econimcs and Business, ISEM"
+venue: "ISEM, Capital University of Econimcs and Business"
 date: 2019-09-28
 location: "Beijing, China"
 ---
@@ -21,7 +21,7 @@ Course Materials
     * [Chapter 2b: Autoregressive model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02b_Stationary_AR.pdf)
     * [Chapter 2c: AR model in practice](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02c_Stationary_Fcst.pdf)
     * [Chapter 2d: MA and ARMA model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/02d_Stationary_MA.pdf)
-  * Chapter 3: Nontationary time series
+  * [Chapter 3: Nontationary time series](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2019-09-financial-econometrics/03_Nonstationary.pdf)
 
 Supplementary Materials
 =====
