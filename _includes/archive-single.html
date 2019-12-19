@@ -53,9 +53,9 @@
     {% endif %}
     
     {% if post.citation and post.paperdoi %}
-      <p>Recommended citation: {{ post.citation }} doi: {{ post.paperdoi }}</p>
+      <p>{{ post.citation }} doi: {{ post.paperdoi }}</p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p>{{ post.citation }} </p>
     {% endif %}
 
     {% if post.paperurl %}
