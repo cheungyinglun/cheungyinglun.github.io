@@ -79,6 +79,10 @@ layout: default
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+    
+    {% if page.paperdoi %}
+      <a class="plumx-plum-print-popup" href="https://plu.mx/plum/a/?doi={{ page.paperdoi }}" data-popup="right" data-size="large" data-site="plum" data-hide-when-empty="true"></a>
+    {% endif %}
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
