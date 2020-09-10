@@ -15,7 +15,9 @@ Course Materials
 * [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/syllabusASP_2020.pdf)
 * Lecture notes:
   * [Chapter 0: Introduction](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/00_Intro.pdf)
-  * [Chapter 1: Primer of statistics and probabilities](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Preliminary.pdf)
+  * Chapter 1: Primer of statistics and probabilities
+    * [1a: Probability and Random Variable](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01a_Probability_Random_Variable.pdf)
+    * [1b: Expectation](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01b_Expectation.pdf)
 
 Course Outline
 ======
