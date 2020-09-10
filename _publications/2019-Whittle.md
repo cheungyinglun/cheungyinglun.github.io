@@ -8,7 +8,7 @@ venue: 'AStA Advances in Statistical Analysis'
 paperdoi: '10.1007/s10182-019-00358-0'
 paperurl: 'https://doi.org/10.1007/s10182-019-00358-0'
 coauthor: 'Uwe HASSLER'
-citation: 'Cheung, Y.L. & U. Hassler. "Whittle-type estimation under long memory and nonstationarity." <i>AStA Advances in Statistical Analysis</i>, accepted.'
+citation: 'Cheung, Y.L. & U. Hassler. (2020). "Whittle-type estimation under long memory and nonstationarity." <i>AStA Advances in Statistical Analysis</i>, 104, 363-383.'
 ---
 {% include base_path %}
 
