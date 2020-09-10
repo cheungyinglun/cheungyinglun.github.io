@@ -7,7 +7,7 @@ date: 2019-12-19
 venue: 'Economics Letters'
 paperurl: 'https://doi.org/10.1016/j.econlet.2019.108914'
 paperdoi: '10.1016/j.econlet.2019.108914'
-citation: 'Cheung, Y.L. "Nonstationarity-extended Whittle estimation with discontinuity: A correction" <i>Economics Letters</i>, accepted.'
+citation: 'Cheung, Y.L. (2020). "Nonstationarity-extended Whittle estimation with discontinuity: A correction" <i>Economics Letters</i>, 187.'
 ---
 {% include base_path %}
 
