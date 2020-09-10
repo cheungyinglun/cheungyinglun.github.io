@@ -16,23 +16,23 @@ Course Materials
 * Lecture notes:
   * [Chapter 0: Introduction](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/00_Intro.pdf)
   * Chapter 1: Primer of statistics and probabilities
-    * [1a: Probability and Random Variable](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01a_Probability_Random_Variable.pdf)
-    * [1b: Expectation](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01b_Expectation.pdf)
+	* [1a: Probability and Random Variable](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01a_Probability_Random_Variable.pdf)
+	* [1b: Expectation](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01b_Expectation.pdf)
 
 Course Outline
 ======
 * Primer of statistics and probabilities
   * Introduction to probability theory
-	* Random variables, expectations and conditioning
-	* Simulations
+  * Random variables, expectations and conditioning
+  * Simulations
 * Markov chains
   * Discrete-time Markov chains
-	* Poisson process
-	* Continuous-time Markov chains
+  * Poisson process
+  * Continuous-time Markov chains
 * Brownian motion
   * Random walks
-	* Brownian motions
-	* _Introduction to stochastic calculus_
+  * Brownian motions
+  * _Introduction to stochastic calculus_
 
 Grading
 ======
