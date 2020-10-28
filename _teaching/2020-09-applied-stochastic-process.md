@@ -45,6 +45,6 @@ Course Outline
 Grading
 ======
 * Class participation: 10%
-* Assignments: 25%
-* Group project: 25%
+* Assignments: 15%
+* Group project: 35%
 * Thesis: 40%
