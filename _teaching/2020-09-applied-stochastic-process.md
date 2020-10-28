@@ -18,7 +18,15 @@ Course Materials
   * Chapter 1: Primer of statistics and probabilities
 	* [1a: Probability and Random Variable](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01a_Probability_Random_Variable.pdf)
 	* [1b: Expectation](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01b_Expectation.pdf)
-
+	* [1c: Stochastic Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01c_Random_Process.pdf)
+	* [1d: Simulation](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/Simulation.pdf)
+  * Chapter 2: Markov Chain
+	* [2a: Transition Matrix and CK Equations](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/02a_Markov_Chain.pdf)
+	* 2b: Classification of States
+* R codes:
+  * [Distributions](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_dist.R)
+  * [Central limit theorem](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_CLT.R)
+  
 Course Outline
 ======
 * Primer of statistics and probabilities
