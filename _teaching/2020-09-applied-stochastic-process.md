@@ -25,15 +25,14 @@ Course Materials
 	* [2b: Classification of States](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/02b_Markov_Chain_ii.pdf)
 	* [2c: Branching Processes](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/02c_Branching_Process.pdf)
   * Chapter 3: Counting Process
- 	* [3a: Poisson Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/03a_Poisson_Process.pdf)
+        * [3a: Poisson Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/03a_Poisson_Process.pdf)
 	* [3b: Renewal Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/03b_Renewal_Process.pdf)
 * R codes:
   * [Distributions](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_dist.R)
   * [Central limit theorem](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_CLT.R)
 * Assignments:
   * [Assignment 1](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1.pdf)
-	* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1_Solution.pdf)
-	* [R code](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1.R)
+	* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1_Solution.pdf), [R code](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1.R)
   * [Assignment 2](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW2.pdf)
   
 Course Outline
