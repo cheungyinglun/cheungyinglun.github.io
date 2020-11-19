@@ -22,10 +22,19 @@ Course Materials
 	* [1d: Simulation](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/Simulation.pdf)
   * Chapter 2: Markov Chain
 	* [2a: Transition Matrix and CK Equations](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/02a_Markov_Chain.pdf)
-	* 2b: Classification of States
+	* [2b: Classification of States](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/02b_Markov_Chain_ii.pdf)
+	* [2c: Branching Processes](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/02c_Branching_Process.pdf)
+  * Chapter 3: Counting Process
+ 	* [3a: Poisson Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/03a_Poisson_Process.pdf)
+	* [3b: Renewal Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/03b_Renewal_Process.pdf)
 * R codes:
   * [Distributions](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_dist.R)
   * [Central limit theorem](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_CLT.R)
+* Assignments:
+  * [Assignment 1](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1.pdf)
+	* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1_Solution.pdf)
+	* [R code](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW1.R)
+  * [Assignment 2](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/HW2.pdf)
   
 Course Outline
 ======
@@ -35,16 +44,16 @@ Course Outline
   * Simulations
 * Markov chains
   * Discrete-time Markov chains
+* Counting process
   * Poisson process
-  * Continuous-time Markov chains
+  * Renewal process
 * Brownian motion
   * Random walks
   * Brownian motions
-  * _Introduction to stochastic calculus_
 
 Grading
 ======
 * Class participation: 10%
-* Assignments: 15%
-* Group project: 35%
+* Assignments: 25%
+* Group project: 25%
 * Thesis: 40%
