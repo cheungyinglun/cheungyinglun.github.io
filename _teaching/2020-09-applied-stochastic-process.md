@@ -27,6 +27,10 @@ Course Materials
   * Chapter 3: Counting Process
 	* [3a: Poisson Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/03a_Poisson_Process.pdf)
 	* [3b: Renewal Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/03b_Renewal_Process.pdf)
+  * Chapter 4: Brownian Motion
+	* [4a: Random Walk](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/04a_Random_Walk.pdf)
+	* [4b: Brownian Motion](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/04b_Brownian_Motion.pdf)
+	* [4c: Asset Returns](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/04c_Asset_Returns.pdf)
 * R codes:
   * [Distributions](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_dist.R)
   * [Central limit theorem](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2020-09-applied-stochastic-process/01_Simulation_CLT.R)
