@@ -1,7 +1,7 @@
 ---
 title: "Identification of Matrix-valued Factor Models"
 collection: workingpapers
-permalink: /workingpapers/time-varying-factor-model
+permalink: /workingpapers/identification_mvfm
 excerpt: 'This note considers two sets of identification restrictions that help exactly identify a matrix-valued factor model.'
 paperurl: ''
 ---
