@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-09-financial-econometrics
 venue: "ISEM, Capital University of Econimcs and Business"
-date: 2019-09-28
+date: 2019 Fall
 location: "Beijing, China"
 ---
 
