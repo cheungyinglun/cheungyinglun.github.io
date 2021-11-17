@@ -12,7 +12,7 @@ This course introduces the theory and applications of several important stochast
 
 Course Materials
 ======
-* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/Syllabus%IntroR%202021.pdf)
+* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/Syllabus ASP 2021.pdf)
 * Lecture notes:
   * [0: Introduction to R](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/IntroR.pdf)
 	* [1: Poisson Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/01_Poisson_Process.pdf)
