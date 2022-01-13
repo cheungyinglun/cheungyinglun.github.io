@@ -22,9 +22,9 @@ Course Materials
 	* [2: Markov Chain](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/02_Markov_chain.pdf)
 * Assignments:
 	* [Assignment 1](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1.pdf)
-		* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1_Solution.pdf)[R file](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1.R)
+		* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1_Solution.pdf), [R file](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1.R)
 	* [Assignment 2](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2.pdf)
-		* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2_Solution.pdf)[R file](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2.R)
+		* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2_Solution.pdf), [R file](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2.R)
   
 Course Outline
 ======
