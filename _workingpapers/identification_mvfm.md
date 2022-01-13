@@ -1,5 +1,5 @@
 ---
-title: "Identification of Matrix-valued Factor Models"
+title: "Identification of matrix-valued factor models"
 collection: workingpapers
 permalink: /workingpapers/identification_mvfm
 excerpt: 'This note considers two sets of identification restrictions that help exactly identify a matrix-valued factor model.'
