@@ -1,5 +1,5 @@
 ---
-title: "Sieve Estimation of Time-Varying Factor Loadings: Estimating the Conditional CAPM"
+title: "Sieve estimation of time-varying factor loadings: Estimating the conditional CAPM"
 collection: workingpapers
 permalink: /workingpapers/time-varying-factor-model
 excerpt: 'This paper introduces a high-dimensional factor model with time-varying factor loadings.'
