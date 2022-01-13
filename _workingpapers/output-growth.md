@@ -1,5 +1,5 @@
 ---
-title: "International Financial Integration and Output Growth"
+title: "International financial integration and output growth"
 collection: workingpapers
 permalink: /workingpapers/output-growth
 excerpt: 'The paper investigates the output effects of international financial integration, and their dependence on two key factors - the quality of country governance and the level of domestic financial market development.'
