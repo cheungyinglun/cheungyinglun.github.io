@@ -1,5 +1,5 @@
 ---
-title: "Identification of Time-varying Factor Models"
+title: "Identification of time-varying factor models"
 collection: workingpapers
 permalink: /workingpapers/identification_tvfm
 excerpt: 'This paper considers the situation under which both the factors and the loadings of TVFM can be consistently estimated without rotations.'
