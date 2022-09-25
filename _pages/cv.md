@@ -16,8 +16,9 @@ redirect_from:
 * Ph.D in Finance, Goethe University Frankfurt, 2019
 
 ## Employment
-* 2019 - Present: Assistant Professor
-  * Capital University of Economics and Business
+* Capital University of Economics and Business
+  * Associate Professor, 2022 - Present
+  * Assistant Professor, 2019 - 2022
 
 ## Publications
   <ul>{% for post in site.publications %}
