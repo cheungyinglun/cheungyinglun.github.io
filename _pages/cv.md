@@ -13,8 +13,8 @@ redirect_from:
 
 ## Education
 * B.Sc in Quantitative Finance, Hong Kong University of Science and Technology, 2010 - 2013
-* Visiting Ph.D. student, Massachusetts Institute of Technology, 2018
 * Ph.D in Finance, Goethe University Frankfurt, 2013 - 2019
+* Visiting Ph.D. student, Massachusetts Institute of Technology, 2018
 
 ## Employment
 * Capital University of Economics and Business
