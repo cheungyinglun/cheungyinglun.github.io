@@ -10,4 +10,4 @@ redirect_from:
 
 ## About me
 
-I am an Assitant Professor at the International School of Economics and Management (ISEM), Capital University of Economics and Business (CUEB). My research focuses on high-dimensional factor analysis, panel data models, time series analysis and empirical asset pricing.
+I am an Associate Professor at the International School of Economics and Management (ISEM), Capital University of Economics and Business (CUEB). My research focuses on high-dimensional factor analysis, panel data models, time series analysis and empirical asset pricing.
