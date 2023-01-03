@@ -12,22 +12,35 @@ This course introduces the theory and applications of several important stochast
 
 Course Materials
 ======
-* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/Syllabus.pdf)
+* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/Syllabus%20ASP%202021.pdf)
 * Slides:
-	* [1: Equity Returns and the Random Walk Model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/01_Returns.pdf)
-	* [2: Portfolio Selection](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/02_Portfolio.pdf)
-	* [3: Capital Asset Pricing Model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/03_CAPM.pdf)
-	* [4: Arbitrage Pricing Theory and Factor Models](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/04_FactorModel.pdf)
+	* [0: Introduction to R](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/IntroR.pdf)
+ 	* [1: Poisson Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/01_Poisson_process.pdf)
+ 	* [2: Markov Chain](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/02_Markov_Chain.pdf)
+ * Notes:
+ 	* [1: Poisson Process](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/01_Poisson_Process.pdf)
+ 	* [2: Markov Chain](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/02_Markov_chain.pdf)
+ * Assignments:
+ 	* [Assignment 1](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1.pdf)
+ 		* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1_Solution.pdf), [R file](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW1.R)
+ 	* [Assignment 2](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2.pdf)
+ 		* [Solution](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2_Solution.pdf), [R file](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2021-11-applied-stochastic-process/HW2.R)
   
 Course Outline
 ======
-* Equity returns and the random walk model
-* Portfolio theory: Risky returns and efficient portfolios
-* The Capital Asset Pricing Model
-* Factor models
+* Primer of statistics and probabilities
+   * Introduction to probability theory
+   * Random variables, expectations and conditioning
+ * Counting process
+   * Poisson process
+   * Renewal process
+ * Markov chains
+   * Transition matrix
+   * Classification of states
 
-Grading (50%)
+Grading
 ======
-* Class participation: 5%
-* Assignments: 10%
-* Final Exam: 35%
+* Class participation: 10%
+* Assignments: 20%
+* Group project: 30%
+* Thesis: 40%
