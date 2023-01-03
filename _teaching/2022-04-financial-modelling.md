@@ -2,7 +2,7 @@
 title: "Financial Modelling and Data Analysis (Part 2)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-financial-modelling
+permalink: /teaching/2022-04-financial-modelling
 venue: "ISEM, Capital University of Econimcs and Business"
 date: 2022-04-17
 location: "Beijing, China"
