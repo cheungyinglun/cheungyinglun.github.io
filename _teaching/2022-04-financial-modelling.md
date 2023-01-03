@@ -12,7 +12,7 @@ This course introduces some basic modeling skills for analyzing financial data l
 
 Course Materials
 ======
-* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/Syllabus%20ASP%202021.pdf)
+* [Syllabus](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/Syllabus.pdf)
 * Slides:
 	* [1: Equity Returns and the Random Walk Model](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/01_Returns.pdf)
 	* [2: Portfolio Selection](https://github.com/cheungyinglun/cheungyinglun.github.io/raw/master/files/teaching/2022-04-financial-modelling/02_Portfolio.pdf)
