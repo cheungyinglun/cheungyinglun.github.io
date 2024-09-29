@@ -6,6 +6,7 @@ excerpt: 'This note considers two sets of identification restrictions that help 
 date: 2024-06-30
 venue: 'Economics Bulletin'
 paperurl: 'http://www.accessecon.com/Pubs/EB/2024/Volume44/EB-24-V44-I2-P40.pdf'
+paperdoi: '--'
 citation: 'Cheung, Y.L. (2024). "Identification of matrix-valued factor models" <i>Economics Bulletin</i>, 44(2), 550-556.'
 ---
 {% include base_path %}
