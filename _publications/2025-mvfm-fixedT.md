@@ -6,7 +6,7 @@ excerpt: 'This paper considers the estimation and inference of matrix-valued fac
 date: 2025-06-26
 venue: 'Econometric Reviews'
 paperurl: 'https://doi.org/'
-paperdoi: ''
+paperdoi: '10.1080'
 citation: 'Cheung, Y.L. (2025). "Inference on matrix-valued factor models under a fixed time horizon" <i>Econometric Reviews</i>, accepted.'
 ---
 {% include base_path %}
