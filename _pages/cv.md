@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here](https://cuebeducn-my.sharepoint.com/:b:/g/personal/cheungyinglun_cueb_edu_cn/ETRHV-BuPFlLmACfV8g_rQsB0nN-_eUvBgx75k-UXy6Gkw?e=iYxNo3)
+[Download here](https://cuebeducn-my.sharepoint.com/:b:/g/personal/cheungyinglun_cueb_edu_cn/EQITBo_3PgZPloo5DhAmYgkBFTaPo09HxNIcWaO0BF6-MA?e=DxbdkX)
 
 ## Education
 * B.Sc in Quantitative Finance, Hong Kong University of Science and Technology, 2010 - 2013
