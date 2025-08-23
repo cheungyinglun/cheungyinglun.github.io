@@ -5,8 +5,8 @@ permalink: /publication/2025-mvfm-fixedT
 excerpt: 'This paper considers the estimation and inference of matrix-valued factor models under a fixed time horizon.'
 date: 2025-06-26
 venue: 'Econometric Reviews'
-paperurl: 'https://doi.org/'
-paperdoi: '10.1080'
+paperurl: 'https://doi.org/10.1080/07474938.2025.2527621'
+paperdoi: '10.1080/07474938.2025.2527621'
 citation: 'Cheung, Y.L. (2025). "Inference on matrix-valued factor models under a fixed time horizon" <i>Econometric Reviews</i>, accepted.'
 ---
 {% include base_path %}
